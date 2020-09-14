@@ -44,7 +44,7 @@ def Tagcloud():
             for word in row :  
                     text = text + " " + word                   
     our_mask = np.array(Image.open('coudmask.png'))
-    tagcloud = WordCloud(background_color="#66fcf1", mask = our_mask , max_words=20).generate(text)
+    tagcloud = WordCloud(background_color="white", mask = our_mask , max_words=20).generate(text)
     plt.imshow(tagcloud)
     plt.tight_layout(pad = 3)
     plt.margins(x=0, y=0)
@@ -66,8 +66,6 @@ def UrlCheck(e):
             suffix = '/'
             if(e.endswith(suffix)):
                 e = e[:len(e)-len(suffix)]
-
-            print(e)
           
             page = requests.get(e)    
             data = page.text
@@ -78,7 +76,6 @@ def UrlCheck(e):
                 links.append(link.get('href'))
 
             linksabc = list(dict.fromkeys(links))
-            print(linksabc)
             l2.config(text = len(linksabc))
 
             a = len(get_fld(e))
@@ -88,7 +85,7 @@ def UrlCheck(e):
             soup = BeautifulSoup(html_page, 'html.parser')
             text = soup.find_all(text=True)
             output = ''
-            blacklist = ['[document]','noscript','header','html','meta','head', 'input','script','style']
+            blacklist = ['[document]','noscript','header','html','meta','head', 'input','script','style' ,'li' , 'b' , 'href' , 'div' , 'th']
             for t in text:
                 if t.parent.name not in blacklist:
                     output += '{} '.format(t)
