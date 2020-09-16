@@ -6,13 +6,14 @@ The word cloud is created for the clean text which has only the key terms based 
 The output contains total number of words of the website , number of distinct links , number of pages at top level.
 The top 9 keywords of the clean text is displayed. If the button 'Generate word cloud' is clicked the word cloud for the 20 terms will be displayed.
 If the button 'display links of the website' is clicked all the links of the website will be displayed in the frame below with the scrolling bar.
-The screenshots of the output are on the issues section. To run the program copy the program in the Python IDLE and save it in the same directory as the cloud mask 
-and logo. Then while executing the program you will get the output.
+To run the program copy the program in the Python IDLE and save it in the same directory as the cloud mask 
+and final-logo. Then while executing the program you will get the output.
 The website analyzer does the the following functions as above and display the word cloud.
 
 Sample website 1:
-
+![image](https://user-images.githubusercontent.com/68334628/93304075-10a04b00-f81a-11ea-83be-87606ed501ee.png)
 Wordcloud:
+![image](https://user-images.githubusercontent.com/68334628/93304107-1e55d080-f81a-11ea-8557-2bb5ad503d4f.png)
 
 
 
