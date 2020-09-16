@@ -11,18 +11,19 @@ and logo. Then while executing the program you will get the output.
 The website analyzer does the the following functions as above and display the word cloud.
 
 Sample website 1:
-https://user-images.githubusercontent.com/68334628/93126233-b86a2b80-f6e9-11ea-964a-c409b42ac8c1.jpg
+
 Wordcloud:
-https://user-images.githubusercontent.com/68334628/93126251-ba33ef00-f6e9-11ea-9355-2c6af8020215.jpg
+
 
 
 Sample website 2:
-https://user-images.githubusercontent.com/68334628/93126254-bacc8580-f6e9-11ea-96d7-873b82460966.jpg
+
 Wordcloud:
-https://user-images.githubusercontent.com/68334628/93126256-bb651c00-f6e9-11ea-86d9-bbc58342e78f.jpg
+
 
 
 Sample website 3:
-https://user-images.githubusercontent.com/68334628/93301724-80acd200-f816-11ea-8bf8-aff44fbae82c.png
+![image](https://user-images.githubusercontent.com/68334628/93303204-c2d71300-f818-11ea-9c6e-0f52123c825d.png)
 Wordcloud:
-https://user-images.githubusercontent.com/68334628/93301786-9621fc00-f816-11ea-8419-28dcf6f0f271.png
+![image](https://user-images.githubusercontent.com/68334628/93303204-c2d71300-f818-11ea-9c6e-0f52123c825d.png)
+
