@@ -17,13 +17,13 @@ Wordcloud:
 
 
 Sample website 2:
-
+![image](https://user-images.githubusercontent.com/68334628/93303657-76400780-f819-11ea-92c4-246ab394203a.png)
 Wordcloud:
-
+![image](https://user-images.githubusercontent.com/68334628/93303642-70e2bd00-f819-11ea-84e4-3b36e58a3cac.png)
 
 
 Sample website 3:
 ![image](https://user-images.githubusercontent.com/68334628/93303204-c2d71300-f818-11ea-9c6e-0f52123c825d.png)
 Wordcloud:
-![image](https://user-images.githubusercontent.com/68334628/93303204-c2d71300-f818-11ea-9c6e-0f52123c825d.png)
+![image](https://user-images.githubusercontent.com/68334628/93303555-47c22c80-f819-11ea-8381-169efd577a9b.png)
 
